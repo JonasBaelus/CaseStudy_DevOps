@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hWjEZCKWDWUCj35bKgWdKaXPSgzNDxqfwbuZ1ENuqO67fS1OJwPQsd1T2lfnyqfJMZiBmdMXih7Ai92soG0Eww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jbael\\source\\repos\\WebscraperICTjobs\\WebscraperICTjobs\\WebscraperICTjobs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbael\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jbael\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
